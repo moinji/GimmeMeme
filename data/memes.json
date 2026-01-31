@@ -1,11 +1,123 @@
 {
   "memes": [
     {
-      "id": "1",
+      "id": "mudo-001",
       "name": "박명수 어이없음",
-      "tags": ["어이없음", "황당", "뭐라는거야", "박명수", "무한도전"],
+      "tags": ["박명수", "무한도전", "어이없음", "황당", "뭐라는거야"],
       "text": "뭐라는거야",
-      "emotions": ["황당", "어이없음", "짜증"],
+      "emotions": ["황당", "어이없음", "짜증", "당황"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-002",
+      "name": "유재석 멘붕",
+      "tags": ["유재석", "무한도전", "멘붕", "충격"],
+      "text": "",
+      "emotions": ["충격", "멘붕", "당황", "놀람"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-003",
+      "name": "정준하 분노",
+      "tags": ["정준하", "무한도전", "화남", "분노"],
+      "text": "",
+      "emotions": ["화남", "분노", "빡침", "짜증"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-004",
+      "name": "하하 웃음",
+      "tags": ["하하", "무한도전", "웃음", "ㅋㅋㅋ"],
+      "text": "",
+      "emotions": ["웃김", "기쁨", "즐거움", "신남"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-005",
+      "name": "노홍철 댄스",
+      "tags": ["노홍철", "무한도전", "댄스", "신남"],
+      "text": "",
+      "emotions": ["신남", "흥", "즐거움", "기쁨"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-006",
+      "name": "길 한숨",
+      "tags": ["길", "무한도전", "한숨", "피곤"],
+      "text": "",
+      "emotions": ["피곤", "지침", "한숨", "우울"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-007",
+      "name": "박명수 월요병",
+      "tags": ["박명수", "무한도전", "월요일", "출근", "회사"],
+      "text": "아 회사 가기 싫다",
+      "emotions": ["피곤", "귀찮음", "우울", "짜증"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-008",
+      "name": "유재석 당황",
+      "tags": ["유재석", "무한도전", "당황", "어색"],
+      "text": "",
+      "emotions": ["당황", "어색", "난감", "곤란"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-009",
+      "name": "정형돈 슬픔",
+      "tags": ["정형돈", "무한도전", "슬픔", "눈물"],
+      "text": "",
+      "emotions": ["슬픔", "우울", "서러움", "눈물"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "mudo-010",
+      "name": "무한도전 단체 환호",
+      "tags": ["무한도전", "단체", "환호", "축하"],
+      "text": "",
+      "emotions": ["기쁨", "환호", "축하", "신남", "흥분"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "general-001",
+      "name": "커피 필요해",
+      "tags": ["커피", "피곤", "아침", "출근"],
+      "text": "커피 없이 못 살아",
+      "emotions": ["피곤", "졸림", "지침"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "general-002",
+      "name": "퇴근하고싶다",
+      "tags": ["퇴근", "회사", "직장인", "야근"],
+      "text": "퇴근하고싶다",
+      "emotions": ["피곤", "지침", "귀찮음", "우울"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "general-003",
+      "name": "배고파 죽겠어",
+      "tags": ["배고픔", "밥", "점심", "저녁"],
+      "text": "밥 줘",
+      "emotions": ["배고픔", "짜증", "급함"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "general-004",
+      "name": "잠이 안와",
+      "tags": ["불면", "잠", "밤", "새벽"],
+      "text": "",
+      "emotions": ["피곤", "답답", "불안"],
+      "image": "/memes/placeholder.png"
+    },
+    {
+      "id": "general-005",
+      "name": "완벽한 성공",
+      "tags": ["성공", "완벽", "대박"],
+      "text": "완벽해",
+      "emotions": ["기쁨", "뿌듯", "자신감", "성취감"],
       "image": "/memes/placeholder.png"
     }
   ]
